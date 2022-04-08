@@ -4,4 +4,3 @@
 - **Java**
 - **Python**
 - **JavaScript**
-- **TypeScript**
